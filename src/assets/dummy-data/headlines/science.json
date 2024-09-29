@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jennifer Ouellette",
+            "title": "These 3D-printed pipes inspired by shark intestines outperform Tesla valves - Ars Technica",
+            "description": "Prototypes control fluid flow in a preferred direction with no need for moving parts.",
+            "url": "https://arstechnica.com/science/2024/09/these-3d-printed-pipes-inspired-by-shark-intestines-outperform-tesla-valves/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/valve2-760x380.jpg",
+            "publishedAt": "2024-09-26T17:52:05Z",
+            "content": "Enlarge/ Shark intestines are naturally occurring Tesla valves; scientists have figured out how to mimic their unique structure.\r\n23\r\nScientists at the University of Washington have re-created the di… [+6009 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Sea robins are fish with ‘the wings of a bird and multiple legs like a crab’ - CNN",
+            "description": "Some types of “walking” fish called sea robins can use their taste bud-covered legs to detect prey buried beneath the sandy covering of the seafloor.",
+            "url": "https://www.cnn.com/2024/09/26/science/sea-robins-walk-taste-seafloor/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/prionotus-carolinus-1-credit-anik-grearson.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-26T15:52:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nSome types of sea robins, a peculiar bottom-dwelling o… [+6984 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Scientists Discover Potential to Pause Human Embryo Development - Neuroscience News",
+            "description": null,
+            "url": "https://neurosciencenews.com/embryonic-development-pause-genetics-27692/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T14:17:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": "SciTechDaily",
+            "title": "MIT Investigation: Mars’ Lost Atmosphere Found Hidden in Its Clay - SciTechDaily",
+            "description": null,
+            "url": "https://scitechdaily.com/mit-investigation-mars-lost-atmosphere-found-hidden-in-its-clay/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T14:06:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Keith Cooper",
+            "title": "The W boson caused a particle mystery — but scientists have cracked the case - Space.com",
+            "description": "Large Hadron Collider has ended W boson fever. \"We have to search for new physics elsewhere,\" one researcher says.",
+            "url": "https://www.space.com/w-boson-mass-large-hadron-collider-solved",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/mjNc8JKTznSpgidRx8vPcd-1200-80.jpg",
+            "publishedAt": "2024-09-26T13:00:01Z",
+            "content": "The mass of the W boson particle has been found by the Large Hadron Collider\r\n to be exactly what the Standard Model\r\n of particle physics predicts it to be, contradicting earlier results from Fermil… [+6956 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "New footage reveals mysterious orca group hunts dolphins off coastal Chile - CNN",
+            "description": "The Humboldt Current’s orcas have yet to be assigned to an ecotype, and their hunting behavior provides clues about where the mysterious population might belong, researchers say.",
+            "url": "https://www.cnn.com/2024/09/26/science/orcas-new-images-hunting-dolphins/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/dsc8295-3.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-26T12:00:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nIt was an orca-versus-dolphin matchup, and the dolphin… [+7665 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Ben Turner",
+            "title": "'We have changed the view of our galaxy forever': Astronomers capture most detailed ever infrared map of the Milky Way - Livescience.com",
+            "description": "Astronomers at the European Southern Observatory have released the largest infrared map of the Milky Way ever. The enormous dataset contains millions of new objects, and the researchers expect to scour it for discoveries for years to come.",
+            "url": "https://www.livescience.com/space/astronomy/we-have-changed-the-view-of-our-galaxy-forever-astronomers-capture-most-detailed-ever-infrared-map-of-the-milky-way",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/eBdKygMKUVyZtexmAeFZvh-1200-80.jpg",
+            "publishedAt": "2024-09-26T12:00:00Z",
+            "content": "Astronomers have created the most detailed infrared map of the Milky Way\r\n — and it contains more than 1.5 billion objects. \r\nMade using 13 years of observations across 420 nights, the new map charts… [+2098 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Tomasz Nowakowski",
+            "title": "NEID Earth Twin Survey discovers its first alien world - Phys.org",
+            "description": "An international team of astronomers reports the discovery of a new extrasolar world orbiting a nearby star known as HD 86728. This is the first exoplanet detection made as part of the NEID Earth Twin Survey (NETS). The finding was detailed in a research pape…",
+            "url": "https://phys.org/news/2024-09-neid-earth-twin-survey-alien.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/nets-discovers-its-fir.jpg",
+            "publishedAt": "2024-09-26T10:50:01Z",
+            "content": "An international team of astronomers reports the discovery of a new extrasolar world orbiting a nearby star known as HD 86728. This is the first exoplanet detection made as part of the NEID Earth Twi… [+3010 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Sascha Pare",
+            "title": "Watch extremely rare footage of a bigfin squid 'walking' on long, spindly arms deep in the South Pacific - Livescience.com",
+            "description": "While exploring the Tonga Trench in the Southwestern Pacific Ocean, researchers captured extremely rare footage of a Magnapinna squid with arms several times the length of its body.",
+            "url": "https://www.livescience.com/animals/squids/watch-extremely-rare-footage-of-a-bigfin-squid-walking-on-long-spindly-arms-deep-in-the-south-pacific",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/oJYxSWiFSJQc27YQeeE7qB-1200-80.png",
+            "publishedAt": "2024-09-26T10:30:37Z",
+            "content": "Cameras at the bottom of the Tonga Trench in the South Pacific have captured rare footage of a bigfin squid with spindly arms that stretch several feet long, a new video shows.\r\nBigfin squid (Magnapi… [+2462 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Elizabeth Howell",
+            "title": "SpaceX Crew-9 dropped 2 NASA astronauts from ISS mission, but they were prepared (video) - Space.com",
+            "description": "\"We need to continue our vigilance for every flight, for every mission.\"",
+            "url": "https://www.space.com/nasa-crew-9-ready-for-launch-spacex-falcon-9-failure",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/R6QpUXpV6S4EPAmLpwhsUL-1200-80.jpg",
+            "publishedAt": "2024-09-26T10:00:04Z",
+            "content": "Even before NASA removed two astronauts from the SpaceX Crew-9 mission to the ISS, the crew knew that no spaceflight is guaranteed.\r\nCrew-9, the ninth operational SpaceX astronaut launch to the Inter… [+7357 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jamie Carter",
+            "title": "Halley’s Comet Meteor Shower Begins Now: When To See It At Its Best - Forbes",
+            "description": "Dust and debris left in the inner solar system by Halley's Comet is about to cause the Orionid meteor shower.",
+            "url": "https://www.forbes.com/sites/jamiecartereurope/2024/09/26/the-halleys-comet-meteor-shower-has-begun-when-to-see-it-at-its-best/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/dv028265/0x0.jpg?format=jpg&crop=2616,1471,x232,y302,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-09-26T10:00:00Z",
+            "content": "Halley's comet was last seen in the inner solar system in 1986. \r\nGetty\r\nA bright comet may be incoming, but another more famous cosmic snowball has long left its mark on the inner solar system. This… [+3396 chars]"
+        },
+        {
+            "source": {
+                "id": "mashable",
+                "name": "Mashable"
+            },
+            "author": "Mashable",
+            "title": "Webb telescope finds a 'weird' galaxy with something brighter than stars - Mashable",
+            "description": null,
+            "url": "https://mashable.com/article/james-webb-space-telescope-early-galaxy-gas-outshines-stars",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T09:05:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "University of California - Berkeley",
+            "title": "Existence of an Earth-like planet around a dead sun offers hope for our planet's ultimate survival - Phys.org",
+            "description": "The discovery of an Earth-like planet 4,000 light years away in the Milky Way galaxy provides a preview of one possible fate for our planet billions of years in the future, when the sun has turned into a white dwarf, and a blasted and frozen Earth has migrate…",
+            "url": "https://phys.org/news/2024-09-earth-planet-dead-sun-ultimate.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/this-rocky-planet-arou.jpg",
+            "publishedAt": "2024-09-26T09:00:02Z",
+            "content": "The discovery of an Earth-like planet 4,000 light years away in the Milky Way galaxy provides a preview of one possible fate for our planet billions of years in the future, when the sun has turned in… [+9444 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Jamie Carter",
+            "title": "Comet A3 Tracker For Friday: Where And When To See It Live And Online - Forbes",
+            "description": "How, when, and where to look to see Comet A3, also known as C/2023 A3 (Tsuchinshan-ATLAS), this Friday, Sept. 27, with sky charts.",
+            "url": "https://www.forbes.com/sites/jamiecartereurope/2024/09/26/comet-tracker-for-friday-exactly-where-and-when-to-see-comet-a3/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/89116448/0x0.jpg?format=jpg&crop=3835,2157,x377,y375,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-09-26T09:00:00Z",
+            "content": "Will Comet A3, also known as Comet Tsuchinshan-ATLAS (C/2023 A3), be as bright as Comet McNaught, ... [+] also known as the \"Great Comet\" of 2007 (pictured).\r\nGetty\r\nCheck my feed every day this week… [+3215 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": null,
+            "title": "Ceres, largest object in asteroid belt, shows signs of life near Ertunet Crater - WION",
+            "description": "The asteroid belt that sits between Mars and Jupiter might be holding the building blocks of life, according to a new study. The dwarf planet Ceres in the region has a hidden ocean which harbours such ingredients, the research published in the journal Science…",
+            "url": "https://www.wionews.com/science/ceres-largest-object-in-asteroid-belt-shows-signs-of-life-near-ertunet-crater-762152",
+            "urlToImage": "https://cdn.wionews.com/sites/default/files/2024/09/26/456920-untitled-3.png",
+            "publishedAt": "2024-09-26T07:42:19Z",
+            "content": "The asteroid belt that sits between Mars and Jupiter might be holding the building blocks of life, according to a new study. The dwarf planet Ceres in the region has a hidden ocean which harbours suc… [+2521 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ScienceAlert"
+            },
+            "author": "ScienceAlert",
+            "title": "Strange Rocks Clinging to Mummies Could Be World's Oldest Cheese - ScienceAlert",
+            "description": null,
+            "url": "https://www.sciencealert.com/strange-rocks-clinging-to-mummies-could-be-worlds-oldest-cheese",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T06:34:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": "SciTechDaily",
+            "title": "Scientists Finally Uncover the True Origins of the Dinosaur-Killing Asteroid - SciTechDaily",
+            "description": null,
+            "url": "https://scitechdaily.com/scientists-finally-uncover-the-true-origins-of-the-dinosaur-killing-asteroid/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T04:36:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "DANIEL NIEMANN",
+            "title": "For European astronauts, this place in Germany is the next best thing to the moon - The Associated Press",
+            "description": "It will be years before the European Space Agency can send one of its astronauts to the moon, but the agency says it’s time to start practicing as it opened a facility in Germany that will let astronauts train in conditions like those on the lunar surface. Th…",
+            "url": "https://apnews.com/article/european-space-agency-esa-space-artemis-0c27c98f81a007450f88d8e8d1d676cc",
+            "urlToImage": "https://dims.apnews.com/dims4/default/db7e289/2147483647/strip/true/crop/8505x4784+0+442/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F37%2Fb5%2Faf5dbf4e32e09454dca5e7e3709d%2F33a67f0e488b4fb88e96830b016df5e2",
+            "publishedAt": "2024-09-26T03:56:00Z",
+            "content": "COLOGNE, Germany (AP) Donning heavy spacesuits and visors to protect them from sunlight, astronauts Thomas Pesquet of France and Matthias Maurer of Germany, accompanied by their trusty canine robot, … [+2213 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes.com.au"
+            },
+            "author": "Jamie Carter - Contributor",
+            "title": "$125,000 balloon trips to space closer after successful test flight - Forbes Australia",
+            "description": "Balloon trips, a new space tourism concept unlike Blue Origin’s capsule or Virgin Galactic’s space plane, has been successfully tested.",
+            "url": "https://www.forbes.com.au/life/experiences/125000-balloon-trips-to-space-closer-after-successful-test-flight/",
+            "urlToImage": "https://www.forbes.com.au/wp-content/uploads/2024/09/960x0.webp",
+            "publishedAt": "2024-09-26T01:51:16Z",
+            "content": "Published on\r\nSeptember 26, 2024\r\nSpaceship Neptune about to splashdown after a successful test flight on Sept. 15.  (Space Perspective)\r\nSpace Perspective, which calls itself the worlds first carbon… [+3084 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digital Trends"
+            },
+            "author": "Trevor Mogg",
+            "title": "SpaceX recreates iconic New York City photo with Starship workers - Digital Trends",
+            "description": "SpaceX has put its hardworking engineers front and center by recreating an iconic New York City photo at its Starbase facility in Texas.",
+            "url": "https://www.digitaltrends.com/space/spacex-recreates-iconic-nyc-image-with-starship-workers/",
+            "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/09/spacex-engineers.jpeg?resize=1200%2C630&p=1",
+            "publishedAt": "2024-09-26T00:45:42Z",
+            "content": "SpaceX has given a shout-out to some of its engineers as the company prepares for its first attempt at “catching” a first-stage Super Heavy booster as it returns to Earth.\r\nIn a message accompanying … [+2551 chars]"
+        }
+    ]
+}

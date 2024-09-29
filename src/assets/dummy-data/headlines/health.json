@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Sara Chernikoff",
+            "title": "How the US obesity rate has evolved over the past decade, explained in charts - USA TODAY",
+            "description": "At least 1 in 5 adults in each U.S. state live with obesity, new data from the Centers for Disease Control and Prevention reveals.",
+            "url": "https://www.usatoday.com/story/graphics/2024/09/26/obesity-rate-in-america-us-chart/75367963007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/25/USAT/75382369007-obesitytopper.png?crop=3555,1999,x122,y0&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2024-09-26T17:52:14Z",
+            "content": "Obesity is an epidemic in the America. Four in 10 U.S. adults fit the medical definition of having obesity, which puts them at risk for serious health problems, including diabetes, heart disease and … [+4158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Food Compound May Extend Lifespan and Reduce Alzheimer’s Symptoms - Neuroscience News",
+            "description": null,
+            "url": "https://neurosciencenews.com/phytoene-longevity-alzheimers-27695/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T16:53:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boredpanda.com"
+            },
+            "author": "Donata Leskauskaite",
+            "title": "“A Hero”: Daring Man Eats Over 700 Eggs In A Month To Disprove “Bad” Cholesterol Claims - Bored Panda",
+            "description": "“I hypothesized that eating 720 eggs in one month, which alone amounts to 133,200 mg of cholesterol, would not increase my cholesterol.”",
+            "url": "https://www.boredpanda.com/man-ate-over-700-eggs-in-one-month-reveals-the-toll-it-took-on-his-body/",
+            "urlToImage": "https://www.boredpanda.com/blog/wp-content/uploads/2024/09/man-ate-over-700-eggs-in-one-month-reveals-the-toll-it-took-on-his-body-fb-66f59b3b60c89.png",
+            "publishedAt": "2024-09-26T16:48:17Z",
+            "content": "A soon-to-be medical doctor ate an astonishing total of 720 eggs over the course of just one month and shared what happened to his body. The results defied the common belief that eggs, especially the… [+5877 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Novel CAR-T Therapy Shows Promise in Targeting Glioblastoma - Neuroscience News",
+            "description": null,
+            "url": "https://neurosciencenews.com/car-t-glioblastoma-brain-cancer-27694/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T16:18:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Taylor Knight",
+            "title": "1 in 3 adults suffers from an iron deficiency, study finds — look for these 7 symptoms - New York Post ",
+            "description": "You might be iron deficient and not even realize it.",
+            "url": "https://nypost.com/2024/09/26/lifestyle/1-in-3-adults-has-an-iron-deficiency-study-finds-look-for-these-7-symptoms/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/90437634.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-09-26T16:17:00Z",
+            "content": "You might be iron deficient and not even realize it.\r\nA recent study, published in JAMA Network Open, revealed that 29% of US adults are affected by absolute or functional iron deficiencies and nearl… [+4290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Endpoints News"
+            },
+            "author": "Kyle LaHucik",
+            "title": "SIGA is ‘deeply angered’ by former exec’s ‘inaccurate’ comments about mpox antiviral - Endpoints News",
+            "description": "SIGA Technologies said former chief medical officer Jay Varma’s comments about the company’s experimental mpox drug are",
+            "url": "https://endpts.com/siga-is-deeply-angered-by-former-execs-inaccurate-comments-about-mpox-antiviral/",
+            "urlToImage": "https://endpts.com/wp-content/uploads/2024/09/jay-varma-ap-social.jpg",
+            "publishedAt": "2024-09-26T15:34:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "THE ASSOCIATED PRESS",
+            "title": "A top government scientist engaged in research misconduct, NIH finds - The Associated Press",
+            "description": "A National Institutes of Health investigation has found research misconduct by a top neuroscientist. In a statement Thursday, NIH said the findings involve images in two studies coauthored by Dr. Eliezer Masliah, the National Institute on Aging's longtime neu…",
+            "url": "https://apnews.com/article/misconduct-alzheimers-parkinsons-research-nih-297a61dc69cb18965015381a911197ec",
+            "urlToImage": "https://dims.apnews.com/dims4/default/899fcc4/2147483647/strip/true/crop/2313x1301+0+121/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2F8b%2F1e49cc8fbecfada56499096dca95%2F28b7abd7947247f198d7226d8c463bc6",
+            "publishedAt": "2024-09-26T14:49:00Z",
+            "content": "A National Institutes of Health investigation has found research misconduct by one of its top neuroscientists, the agency said Thursday.\r\nIn a statement, the NIH said the findings involve images in t… [+1549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "National Institutes of Health"
+            },
+            "author": null,
+            "title": "Scientists discover gene responsible for rare, inherited eye disease - National Institutes of Health (NIH) (.gov)",
+            "description": "NIH-supported findings pave the way for genetic testing, clinical trials, and therapy development.",
+            "url": "https://www.nih.gov/news-events/news-releases/scientists-discover-gene-responsible-rare-inherited-eye-disease",
+            "urlToImage": "https://www.nih.gov/sites/default/files/news-events/news-releases/2024/20240926-eye-disease.jpg",
+            "publishedAt": "2024-09-26T14:32:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Knowablemagazine.org"
+            },
+            "author": "Bob Holmes, Knowable Magazine",
+            "title": "Hummingbirds thrive on an extreme lifestyle. Here’s how. - Ars Technica",
+            "description": "Nightly suspended animation, sugary diet, backwards flight, and long migrations help.",
+            "url": "https://knowablemagazine.org/content/article/living-world/2024/how-hummingbirds-adapt-to-an-extreme-lifestyle",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/sapphire-760x380.jpg",
+            "publishedAt": "2024-09-26T13:29:18Z",
+            "content": "Enlarge/ Hummingbirdslike this golden-tailed sapphire from South Americadraw the eye with their bright colors and busy, hovering flight. Biologists are drawn to understand the suite of adaptations th… [+4090 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neurosciencenews.com"
+            },
+            "author": "Neuroscience News",
+            "title": "Newly Found Genetic Mutation Linked to Early-Onset Parkinson’s - Neuroscience News",
+            "description": null,
+            "url": "https://neurosciencenews.com/genetics-early-onset-parkinsons-27689/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T13:03:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Charles Trepany",
+            "title": "Ozempic is so popular people are trying to 'microdose' it. Is that a bad idea? - USA TODAY",
+            "description": "People are seeking out 'microdoses' of Ozempic and other weight-loss drugs. Medical professionals say there's pros and cons.",
+            "url": "https://www.usatoday.com/story/life/health-wellness/2024/09/26/ozempic-microdosing-safety/75384332007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/06/27/USAT/74231262007-usatsi-21519642.jpg?crop=3597,2024,x0,y375&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2024-09-26T12:52:25Z",
+            "content": "\"Microdosing.\" It's a term you might have heard in reference to psychedelics. But what about Ozempic?\r\nThe explosion of interest in weight-loss medication from brands like Ozempic, Wegovy and Manjaro… [+4395 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Pandora Dewan",
+            "title": "COVID Virus Is Evolving Resistance to Antiviral Treatment, Studies Show - Newsweek",
+            "description": "Immunocompromised patients are particularly likely to see the evolution of these mutants, but the risk to the general public remains unclear.",
+            "url": "https://www.newsweek.com/covid-virus-evolving-resistance-antiviral-treatment-remdesivir-1959696",
+            "urlToImage": "https://d.newsweek.com/en/full/2481081/remdesivir.png",
+            "publishedAt": "2024-09-26T12:15:54Z",
+            "content": "The virus that causes COVID-19 might be becoming resistant to antiviral treatments, new research has warned. But should we be concerned?\r\nThe antiviral drugs nirmatrelvir and remdesivir are recommend… [+4217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T11:45:24Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IFLScience"
+            },
+            "author": "Tom Hale",
+            "title": "At 123 Years Old, Henry Is The World's Oldest Known Crocodile – And He's An Absolute Unit - IFLScience",
+            "description": "Henry is thought to have been born before Salvador Dalí and Dr Seuss, but he's still going strong.",
+            "url": "https://www.iflscience.com/at-123-years-old-henry-is-the-worlds-oldest-known-crocodile-and-hes-an-absolute-unit-76112",
+            "urlToImage": "https://assets.iflscience.com/assets/articleNo/76112/aImg/79122/croc-meta.jpg",
+            "publishedAt": "2024-09-26T11:09:21Z",
+            "content": "At the ripe estimated age of 123 years old, Henry is the oldest known crocodile in the world and what a life hes led. In the past few decades alone, the mature gentleman has fathered thousands upon t… [+2453 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T10:07:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "David Cox",
+            "title": "'A warmer, sicker world': Mosquitoes carrying deadly diseases are on an unstoppable march across the US - BBC.com",
+            "description": "West Nile virus, Eastern equine encephalitis (EEE), malaria and dengue are gaining new ground in the US. The mosquitoes that carry these diseases are thriving in a warming world.",
+            "url": "https://www.bbc.com/future/article/20240925-why-mosquitoes-are-thriving-in-a-warmer-world",
+            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0jss7gr.jpg",
+            "publishedAt": "2024-09-26T09:07:38Z",
+            "content": "Aedes mosquitoes capable of carrying a range of harmful viruses are moving to new areas with climate change (Credit: Getty Images)\r\nWest Nile virus, Eastern equine encephalitis (EEE), malaria and den… [+12039 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Angelica Stabile",
+            "title": "More than half of Americans with STDs were infected by cheating partners, survey finds - Fox News",
+            "description": "A survey exposed how and where STIs are spreading in the U.S. A spokesperson for the research team and a sexual health expert react to the findings and offer prevention tips.",
+            "url": "https://www.foxnews.com/health/more-half-americans-stds-infected-cheating-partners-survey-finds",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/mature-couple.jpg",
+            "publishedAt": "2024-09-26T08:40:00Z",
+            "content": "A new study has exposed the sexual health habits of some Americans.\r\nResearchers analyzed data from the U.S. Census Bureau to determine how and where Americans have been contracting and spreading STI… [+4334 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T08:30:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T06:47:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T05:56:35Z",
+            "content": "[Removed]"
+        }
+    ]
+}

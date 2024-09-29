@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 64,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore, Vanessa Yurkevich",
+            "title": "Port workers from Maine to Texas are set to strike Tuesday. Expect shortages and higher prices - CNN",
+            "description": "Longshore workers at ports from Maine to Texas are set to walk off the job early Tuesday, staging what could become the most disruptive strike to the US economy in decades.",
+            "url": "https://www.cnn.com/2024/09/26/business/port-workers-ila-strike/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24260763329066.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-26T18:42:00Z",
+            "content": "Longshore workers at ports from Maine to Texas are set to walk off the job early Tuesday, staging what could become the most disruptive strike to the US economy in decades.\r\nThe strike could stop the… [+10218 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Karen Friar",
+            "title": "Stock market today: S&P 500, Nasdaq gain as US GDP data, chip stocks lift mood - Yahoo Finance",
+            "description": "A double dose of optimism for the AI trade and for China's stimulus push is buoying the market ahead of Jerome Powell's comments.",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-gain-as-us-gdp-data-chip-stocks-lift-mood-133011116.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sik4uGNdCv6Ghm7wfiEBsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-04/8d2f4820-f57c-11ee-94f9-c987175f6892",
+            "publishedAt": "2024-09-26T17:58:46Z",
+            "content": "US stocks jumped on Thursday afternoon, setting the stage for fresh record highs. Investors welcomed a slew of updates, including solid US economic data, Micron's (MU) upbeat earnings, and China's pl… [+8658 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decrypt"
+            },
+            "author": "Decrypt",
+            "title": "Bitcoin Price Hits $65,000 as Investors Plug Half a Billion Into ETFs - Decrypt",
+            "description": null,
+            "url": "https://decrypt.co/283212/bitcoin-price-65000-investors-half-billion-etfs",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T16:29:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Fenit Nirappil",
+            "title": "Free covid tests by mail program revived by Biden administration - The Washington Post",
+            "description": "People can again order four covid tests per household. The move comes ahead of an expected winter coronavirus wave.",
+            "url": "https://www.washingtonpost.com/health/2024/09/26/free-covid-test-mail/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D3UVS6BGTP3H5AUZA5OQL7CEEQ_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-09-26T16:18:02Z",
+            "content": "Americans can again order free rapid coronavirus tests by mail, the Biden administration announced Thursday.\r\nPeople can request four free at-home tests per household through covidtests.gov. They wil… [+895 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Breck Dumas",
+            "title": "Long-term mortgage rates drop to 2-year low - Fox Business",
+            "description": "Mortgage rates showed little movement this week with 15-year mortgages ticking up, but the average 30-year fixed-rate mortgage inched down to the lowest level since 2022.",
+            "url": "https://www.foxbusiness.com/economy/mortgage-rates-september-26-2024",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/09/0/0/home-sale.jpg?ve=1&tl=1",
+            "publishedAt": "2024-09-26T16:03:00Z",
+            "content": "Mortgage rates barely moved this week, but long-term notes declined to the lowest levels Americans have seen since 2022.\r\nFreddie Mac's latest Primary Mortgage Market Survey, released Thursday, showe… [+1218 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Billal Rahman",
+            "title": "Blow to Putin's War Machine As Saudi Arabia Ramps Up Oil Production - Newsweek",
+            "description": "Saudi Arabia is prepared to abandon its $100-a-barrel crude oil price target as it moves to increase output, signaling its acceptance of lower prices.",
+            "url": "https://www.newsweek.com/saudi-arabia-ramp-oil-production-blow-putin-1959817",
+            "urlToImage": "https://d.newsweek.com/en/full/2481262/putin.jpg",
+            "publishedAt": "2024-09-26T15:32:56Z",
+            "content": "Saudi Arabia is set to ramp up oil production in a blow to Russian President Vladimir Putin's war machine and his invasion of Ukraine.\r\nSaudi Arabia is prepared to abandon its $100-a-barrel crude oil… [+3932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ashley Capoot",
+            "title": "Super Micro shares tumble 12% after DOJ reportedly opens probe into company - CNBC",
+            "description": "Super Micro shares tumbled Thursday after a report that the Department of Justice opened a probe into the company.",
+            "url": "https://www.cnbc.com/2024/09/26/super-micro-shares-tumble-12percent-after-doj-reportedly-opens-probe-into-company.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108026676-1724864464885-gettyimages-2162772793-JAQUESILVA_25072024-5027.jpeg?v=1724866990&w=1920&h=1080",
+            "publishedAt": "2024-09-26T15:18:39Z",
+            "content": "Super Micro Computer shares fell more than 12% on Thursday after the Justice Department reportedly opened a probe into the company, which has been a major beneficiary of the artificial intelligence b… [+1150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Treasury.gov"
+            },
+            "author": null,
+            "title": "Remarks by Secretary of the Treasury Janet L. Yellen at the 2024 U.S. Treasury Market Conference - Treasury",
+            "description": "As Prepared for DeliveryThank you for the introduction. I’m very glad that I’m able to join you for this tenth annual Treasury Market Conference. This conference helps the government identify ways to further improve the functioning and resilience of the Treas…",
+            "url": "https://home.treasury.gov/news/press-releases/jy2618",
+            "urlToImage": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+            "publishedAt": "2024-09-26T15:15:30Z",
+            "content": "As Prepared for Delivery\r\nThank you for the introduction. Im very glad that Im able to join you for this tenth annual Treasury Market Conference. This conference helps the government identify ways to… [+18782 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Laura Bratton",
+            "title": "Meta stock hits all-time high as Wall Street bets on AI vision - Yahoo Finance",
+            "description": "Meta stock hit an all-time high as investors bet on its AI vision.",
+            "url": "https://finance.yahoo.com/news/meta-stock-hits-all-time-high-as-wall-street-bets-on-ai-vision-142944019.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-09-26T15:03:59Z",
+            "content": "Meta stock (META) traded at a new all-time intraday high Thursday, following a developer event that put its artificial intelligence ambitions on display. Shares rose as high as $577 after market open… [+3796 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Hannah Levitt",
+            "title": "Wells Fargo Sends Fed a Crucial Review for Lifting Asset Cap - Bloomberg",
+            "description": "Wells Fargo &amp; Co. has entered a key new phase of its almost seven-year effort to escape a Federal Reserve cap on its assets, a punishment that has become the most feared in banking.",
+            "url": "https://www.bloomberg.com/news/articles/2024-09-26/wells-fargo-is-said-to-send-fed-a-crucial-review-for-lifting-cap",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ionw1CetVzWI/v0/1200x800.jpg",
+            "publishedAt": "2024-09-26T14:54:26Z",
+            "content": "Wells Fargo &amp; Co. has entered a key new phase of its almost seven-year effort to escape a Federal Reserve cap on its assets, a punishment that has become the most feared in banking.\r\nBehind the s… [+383 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "The Motley Fool",
+            "title": "2 Artificial Intelligence Stocks I'm Loading Up On Right Now - The Motley Fool",
+            "description": null,
+            "url": "https://www.fool.com/investing/2024/09/26/2-artificial-intelligence-stocks-im-loading-up-on/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T14:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "PAUL WISEMAN",
+            "title": "US economy grew at a solid 3% rate last quarter, government says in final estimate - The Associated Press",
+            "description": "The American economy expanded at a healthy 3% annual pace from April through June, boosted by strong consumer spending and business investment, the government said, leaving its previous estimate unchanged. The nation’s gross domestic product — the nation’s to…",
+            "url": "https://apnews.com/article/economy-growth-inflation-gdp-consumers-federal-reserve-6ac0d113be186b0e1e9e2c85ce927280",
+            "urlToImage": "https://dims.apnews.com/dims4/default/3c9c0f7/2147483647/strip/true/crop/4032x2268+0+210/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8f%2F73%2Fb595574bbbc6836b0e8a40343fa3%2F4fd798e7a15e4bacbf3e8a87250a8cc0",
+            "publishedAt": "2024-09-26T14:26:00Z",
+            "content": "WASHINGTON (AP) The American economy expanded at a healthy 3% annual pace from April through June, boosted by strong consumer spending and business investment, the government said Thursday, leaving i… [+4850 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Accenture Stock Rises After Earnings Beat, Dividend Boost - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/accenture-earnings-stock-price-a7c63632",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T13:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Billionaire investor David Tepper on China: Central bank comments 'exceeded expectations' - CNBC Television",
+            "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+            "url": "https://www.youtube.com/",
+            "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+            "publishedAt": "2024-09-26T13:30:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Toyota.com"
+            },
+            "author": "Melissa Faulner",
+            "title": "New Name, Same Great Powertrain for the 2025 Toyota RAV4 Plug-in Hybrid - Toyota USA Newsroom",
+            "description": "PLANO, Texas (Sep. 26, 2024) - Since 2019, the Toyota RAV4 Prime model has brought the flexibility of Plug-in Hybrid driving to customers. With 42 miles of battery powered all-electric range that can be recharged at home or a public charging station, and a ma…",
+            "url": "https://pressroom.toyota.com/new-name-same-great-powertrain-for-the-2025-toyota-rav4-plug-in-hybrid/",
+            "urlToImage": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2024/09/2025_Toyota_RAV4_PHEV_XSE_Supersonic-Red_Hero-1000x600.jpg",
+            "publishedAt": "2024-09-26T13:15:58Z",
+            "content": "<ul><li>RAV4 Prime Changes its Name to RAV4 Plug-in Hybrid for Model Year 2025 </li><li>Plug-in and Go All Electric for a Manufacturer–Estimated 42 Miles of Range or Drive in Hybrid Mode for a Manufa… [+18689 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Google says a closed ad ecosystem isn’t anticompetitive — it’s just safer - The Verge",
+            "description": "Google ad spam executive Per Bjorke testified about the security risks of making its ad products more open and how Google responded to the massive 3ve botnet scheme.",
+            "url": "https://www.theverge.com/2024/9/26/24253523/google-closed-ad-ecosystem-awbid-ad-fraud-3ve",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/9wkDRotuETuuc2emt2m4kxmaewM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25606859/STK445_ADVERTISING_STK093_GOOGLE_A.jpg",
+            "publishedAt": "2024-09-26T13:04:57Z",
+            "content": "Google says a closed ad ecosystem isnt anticompetitive its just safer\r\nGoogle says a closed ad ecosystem isnt anticompetitive its just safer\r\n / A Google executive who fights ad spam detailed its ind… [+5335 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Katherine Dillinger, Jamie Gumbrecht",
+            "title": "Lawmakers push for accountability after 10th death linked to Boar’s Head listeria outbreak - CNN",
+            "description": "A death in New York has been linked with a listeria outbreak connected to recalled Boar’s Head deli meat, the US Centers for Disease Control and Prevention said Wednesday. A total of 59 people have been hospitalized with the outbreak strain of bacteria in 19 …",
+            "url": "https://www.cnn.com/2024/09/25/health/listeria-deli-meat-recall/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2164656749.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-26T13:04:00Z",
+            "content": "A death in New York has been linked with a listeria outbreak connected to recalled Boars Head deli meat, the US Centers for Disease Control and Prevention said Wednesday. A total of 59 people have be… [+3486 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Seattle Times"
+            },
+            "author": "Jessica Fu",
+            "title": "Financial worries set in for some striking Boeing workers - The Seattle Times",
+            "description": "Financial realities are beginning to bite some of the lower-paid Boeing workers who are less prepared for going a long time without a paycheck.",
+            "url": "https://www.seattletimes.com/business/with-seattle-area-costs-how-are-boeing-strike-workers-making-ends-meet/",
+            "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2024/09/09252024_tzr_tzr_143050.jpg?d=1200x630",
+            "publishedAt": "2024-09-26T13:00:00Z",
+            "content": "This story is part of a Seattle Times focus on the affordability crisis in the Northwest. In an occasional series of stories, we will explore the high cost of living and wealth disparities that shape… [+7143 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "FDA eyes first schizophrenia drug shift in decades - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/09/26/schizophrenia-drug-treatment-fda-karxt",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T12:44:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Stocks to Watch Thursday: Micron, Intel, AMD - The Wall Street Journal",
+            "description": null,
+            "url":"https://www.wsj.com/livecoverage/stock-market-today-gdp-jobless-data-09-26-2024/card/stocks-to-watch-thursday-micron-nvidia-asml-MjUz3ZoJDzk6qXFw9dWY?siteid\\\=yhoof2",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T12:37:00Z",
+            "content": null
+        }
+    ]
+}

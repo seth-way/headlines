@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 28,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T16:26:33Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Chris Welch",
+            "title": "Samsung’s new Galaxy S24 FE brings AI features to a lower price - The Verge",
+            "description": "Samsung has announced a handful of new products including the Galaxy S24 FE, Galaxy Tab S10 Plus, and Galaxy Tab S10 Ultra. All will be available on October 3rd.",
+            "url": "https://www.theverge.com/2024/9/26/24255031/samsung-galaxy-s24-fe-watch-lte-tab-s10-ultra-announced",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/3WK2Kg4lTqGoT9gzaYySH-RmqHc=/0x0:2040x1437/1200x628/filters:focal(1020x719:1021x720)/cdn.vox-cdn.com/uploads/chorus_asset/file/25643862/DSC_0741.JPG",
+            "publishedAt": "2024-09-26T16:25:03Z",
+            "content": "Samsungs new Galaxy S24 FE brings AI features to a lower price\r\nSamsungs new Galaxy S24 FE brings AI features to a lower price\r\n / The company is also releasing two new tablets and a previously annou… [+2384 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Jagmeet Singh",
+            "title": "Google's NotebookLM enhances AI note-taking with YouTube, audio file sources, sharable audio discussions - TechCrunch",
+            "description": "Google's NotebookLM has been updated with YouTube and audio files as new source types and sharable links for Audio Overviews.",
+            "url": "https://techcrunch.com/2024/09/26/googles-notebooklm-enhances-ai-note-taking-with-youtube-audio-file-sources-sharable-audio-discussions/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/09/notetaking-getty.jpg?w=1200",
+            "publishedAt": "2024-09-26T16:00:00Z",
+            "content": "Google on Thursday announced new updates to its AI note-taking and research assistant, NotebookLM, allowing users to get summaries of YouTube videos and audio files and even create sharable AI-genera… [+4251 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Samuel Axon",
+            "title": "iPhone 16 and 16 Pro review: Camera features headline a mature product - Ars Technica",
+            "description": "This is Apple's most iterative annual release yet, but that's not a bad thing.",
+            "url": "https://arstechnica.com/gadgets/2024/09/iphone-16-and-16-pro-review-camera-features-headline-a-mature-product/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/iPhones-16-760x380.jpeg",
+            "publishedAt": "2024-09-26T14:13:57Z",
+            "content": "Enlarge/ From left to right: iPhone 16, iPhone 16 Plus, iPhone 16 Pro, and iPhone 16 Pro Max.\r\n71\r\nWith the iPhone 16 and iPhone 16 Pro, it has never been clearer that the cycle of radical invention … [+6706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Ollie Reynolds",
+            "title": "Zelda: Echoes Of Wisdom's Frame Rate Is \"Even Worse\" Than Link's Awakening - Nintendo Life",
+            "description": "Digital Foundry delivers its verdict",
+            "url": "https://www.nintendolife.com/news/2024/09/zelda-echoes-of-wisdoms-frame-rate-is-even-worse-than-links-awakening",
+            "urlToImage": "https://images.nintendolife.com/890a69a115a43/1280x720.jpg",
+            "publishedAt": "2024-09-26T14:00:00Z",
+            "content": "Subscribe to Nintendo Life on YouTube778k\r\nBe warned, if you're going to watch the above video, there may be some brief story information provided that could be considered a light spoiler. Skip the i… [+2267 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Antonio G. Di Benedetto",
+            "title": "Where to preorder the PS5 Pro and PlayStation’s 30th anniversary collection - The Verge",
+            "description": "The upcoming PlayStation 5 Pro is up for preorder alongside Sony’s 30th anniversary PlayStation collection. Here’s where you can lock yours in ahead of November.",
+            "url": "https://www.theverge.com/24252575/sony-ps5-pro-playstation-5-preorder-buy-price-release-date",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Xs-8Ef0PauN-KxMar6QkqsL50Hk=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25630898/ps5_pro_sean_hollister_verge_003.jpg",
+            "publishedAt": "2024-09-26T13:45:01Z",
+            "content": "Where to preorder the PS5 Pro and PlayStations 30th anniversary collection\r\nWhere to preorder the PS5 Pro and PlayStations 30th anniversary collection\r\n / Sonys latest flagship console launches Novem… [+6120 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theshortcut.com"
+            },
+            "author": "Adam Vjestica",
+            "title": "PS5 Pro 30th Anniversary price revealed: here's how much Sony's console costs - The Shortcut",
+            "description": "We finally know much the PS5 Pro 30th Anniversary Edition will cost",
+            "url": "https://www.theshortcut.com/p/ps5-pro-30th-anniversary-price-revealed",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faae04d9f-9d1c-437c-be14-2ff41615aa2d_1536x864.jpeg",
+            "publishedAt": "2024-09-26T13:35:17Z",
+            "content": "<ul><li> The PS5 Pro 30th Anniversary price has finally been revealed\r\n</li><li> It costs $999.99, which is cheaper than many were expecting\r\n</li><li> Sony hasnt marked up the bundle as much as we t… [+3018 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Windows Central"
+            },
+            "author": "Jez Corden",
+            "title": "Final Fantasy Pixel Remaster's Xbox port has finally been announced and is available to purchase right now - Windows Central",
+            "description": "The recent rumors of classic Final Fantasy games returning to Xbox have finally come true as Final Fantasy Pixel Remaster is coming to Xbox consoles later today",
+            "url": "https://www.windowscentral.com/gaming/xbox/final-fantasy-pixel-remaster-leaks-early-on-the-xbox-dash-ahead-of-microsofts-tokyo-game-show-presentation",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/jcABTA9vueKnCZqVHAtJoX-1200-80.jpg",
+            "publishedAt": "2024-09-26T12:58:44Z",
+            "content": "What you need to know\r\n<ul><li>Microsoft has a 45 minute long presentation at the Tokyo Game Show this week, showcasing their continued efforts to promote Xbox gaming in Asia. </li><li>On my XB2 Podc… [+5401 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Paul Tassi",
+            "title": "After ‘Assassin’s Creed Shadows’ Delay, Ubisoft Acknowledges ‘Outlaws’ Issues, Anti-Woke Pushback - Forbes",
+            "description": "Ubisoft is in an extremely rough spot right now with the announcement that its imminent large-scale Assassin’s Creed game, Shadows,",
+            "url": "https://www.forbes.com/sites/paultassi/2024/09/26/after-assassins-creed-shadows-delay-ubisoft-acknowledges-outlaws-issues-anti-woke-pushback/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66f40b50c36c57ac8d811507/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-09-26T12:18:54Z",
+            "content": "AC Shadows\r\nUbisoft\r\nUbisoft is in an extremely rough spot right now with its stock at a ten year low, a self-investigation into the company beginning to sort out its issues and the announcement that… [+2845 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Metal Gear Solid Delta: Snake Eater - Trailer | TGS 2024 - IGN",
+            "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+            "url": "https://www.youtube.com/",
+            "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+            "publishedAt": "2024-09-26T10:17:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Ryan Dinsdale",
+            "title": "Xbox Tokyo Game Show 2024 Broadcast: Everything Announced - IGN",
+            "description": "Tokyo Game Show 2024 is now in full swing and Microsoft has wrapped up its Xbox Broadcast showcase, revealing new trailers and information for games including Metal Gear Solid Δ: Snake Eater, Overwatch 2, Starcraft, Katamari, and much more.",
+            "url": "https://www.ign.com/articles/microsoft-xbox-tokyo-game-show-2024-broadcast-everything-announced",
+            "urlToImage": "https://assets-prd.ignimgs.com/2024/09/26/xbox-1727344744023.png?width=1280",
+            "publishedAt": "2024-09-26T10:09:11Z",
+            "content": "Tokyo Game Show 2024 is now in full swing and Microsoft has wrapped up its Xbox Broadcast showcase, revealing new trailers and information for games including Metal Gear Solid : Snake Eater, Overwatc… [+13408 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile - Samsung news",
+            "title": "Breaking: Galaxy Tab S9 FE, FE+ get One UI 6.1.1 update - SamMobile - Samsung news",
+            "description": null,
+            "url": "https://www.sammobile.com/news/galaxy-tab-s9-fe-one-ui-6-1-1-update-released/",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T10:04:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Stratechery.com"
+            },
+            "author": null,
+            "title": "An Interview with Meta CTO Andrew Bosworth About Orion and Reality Labs - Stratechery by Ben Thompson",
+            "description": "An Interview with Meta CTO Andrew Bosworth About Orion and Reality Labs",
+            "url": "https://stratechery.com/2024/an-interview-with-meta-cto-andrew-bosworth-about-orion-and-reality-labs/",
+            "urlToImage": "https://149384716.v2.pressablecdn.com/wp-content/uploads/2024/09/bosworth-1.png",
+            "publishedAt": "2024-09-26T09:34:57Z",
+            "content": "Good morning,\r\nToday’s Daily Update Interview is with Meta Chief Technical Officer Andrew Bosworth. Bosworth was an early employee of Meta who created the News Feed, built out Facebook’s ad product, … [+51963 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Videogamer.com"
+            },
+            "author": null,
+            "title": "Space Marine 2 director admits Chaos combat sucks compared to awesome Tyranid skirmishes - Video Gamer",
+            "description": "Space Marine 2 game director Dmitriy Gigorenko admits Chaos combat sucks compared to Tyranids in the launch game.",
+            "url": "https://www.videogamer.com/news/space-marine-2-director-admits-chaos-combat-sucks-compared-to-awesome-tyranid-skirmishes/",
+            "urlToImage": "https://www.videogamer.com/wp-content/uploads/Warhammer-Space-Marine-2-director-chaos-sucks.jpg",
+            "publishedAt": "2024-09-26T09:28:24Z",
+            "content": "You can trust VideoGamer. Our team of gaming experts spend hours testing and reviewing the latest games, to ensure you're reading the most comprehensive guide possible. Rest assured, all imagery and … [+2908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Notebookcheck.net"
+            },
+            "author": "Notebookcheck.net",
+            "title": "Intel Lunar Lake iGPU analysis - Arc Graphics 140V is faster and more efficient than Radeon 890M - Notebookcheck.net",
+            "description": null,
+            "url": "https://www.notebookcheck.net/Intel-Lunar-Lake-iGPU-analysis-Arc-Graphics-140V-is-faster-and-more-efficient-than-Radeon-890M.894167.0.html",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T09:10:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC - The Verge",
+            "description": "SteelSeries is entering the earbuds game. The $159.99 Arctis GameBuds are designed for Xbox, PlayStation, and PC gaming.",
+            "url": "https://www.theverge.com/2024/9/26/24253924/steelseries-arctis-gamebuds-earbuds-pc-xbox-playstation-nintendo-switch-release-date-pricing",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/bd0c3O5gmf1_sJpzdiQlbW3mF4M=/0x0:2000x1315/1200x628/filters:focal(1000x658:1001x659)/cdn.vox-cdn.com/uploads/chorus_asset/file/25640019/pr_arctis_gamebuds_white_lifestyle_woman_indoor_02.png",
+            "publishedAt": "2024-09-26T04:00:00Z",
+            "content": "SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC\r\nSteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC\r\n / Early testing suggests the Arctis Ga… [+4235 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": null,
+            "title": "Miyamoto: Nintendo Won't Be Opening Museums In Other Locations - Nintendo Life",
+            "description": null,
+            "url": "https://www.nintendolife.com/news/2024/09/miyamoto-nintendo-wont-be-opening-museums-in-other-locations",
+            "urlToImage": null,
+            "publishedAt": "2024-09-26T01:55:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Victoria Kennedy",
+            "title": "God of War Ragnarök PSN bypass mod pulled by maker - Eurogamer",
+            "description": "Nexus mods user iArtorias has removed their handy PSN bypass mod for God of War Ragnarök.",
+            "url": "https://www.eurogamer.net/god-of-war-ragnarok-psn-bypass-mod-pulled-by-maker",
+            "urlToImage": "https://assetsio.gnwcdn.com/God-of-War-Ragnarok-on-PC.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2024-09-25T21:48:33Z",
+            "content": "UPDATE 25/9/24, 10.35pm: Nexus Mods has confirmed iArtorias removed their mod, which let players bypass PSN for God of War Ragnarök on PC, in order to \"avoid any future action from Sony\".\r\nIn a conve… [+3077 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Kyle Orland",
+            "title": "Talking to ChatGPT for the first time is a surreal experience - Ars Technica",
+            "description": "Listen to our first audio demo with OpenAI's new natural voice chat features.",
+            "url": "https://arstechnica.com/ai/2024/09/talking-to-chatgpt-for-the-first-time-is-a-surreal-experience/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/GettyImages-1533302708-760x380.jpg",
+            "publishedAt": "2024-09-25T21:04:30Z",
+            "content": "Enlarge/ Putting the \"chat\" in ChatGPT.\r\n69\r\nIn May, when OpenAI first demonstrated ChatGPT-4o's coming audio conversation capabilities, I wrote that it felt like we were \"on the verge of something..… [+6789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Yahoo Finance",
+            "title": "Apple's iPhone 16 lead times track below past three cycles: MS - Yahoo Finance",
+            "description": "Apple's (AAPL) iPhone 16 lead times are lower than in the past three iPhone cycles, according to Morgan Stanley. Yahoo Finance Tech Editor Dan Howley joins...",
+            "url": "https://finance.yahoo.com/video/apples-iphone-16-lead-times-200238416.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-09-25T20:02:38Z",
+            "content": "Apple's (AAPL) iPhone 16 lead times are lower than in the past three iPhone cycles, according to Morgan Stanley. Yahoo Finance Tech Editor Dan Howley joins Market Domination to break down the news an… [+101 chars]"
+        }
+    ]
+}
