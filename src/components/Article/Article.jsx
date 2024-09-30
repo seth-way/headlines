@@ -1,6 +1,7 @@
 import './Article.css';
 import { useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { getArticleDate } from '../../lib/utils';
 
 const defaultArticle = {
 	source: '',
@@ -20,27 +21,31 @@ const Article = ({ article }) => {
 		if (!article) navigate('..', { relative: 'path' });
 	}, [article, navigate]);
 
-	const { source, author, title, description, url, urlToImage, publishedAt, content } =
+	const { source, author, title, url, urlToImage, publishedAt, content } =
 		article || defaultArticle;
 
 	console.log('content', content.length, content);
 
 	return (
 		<div id="featured-article">
-			<h2>{title}</h2>
-			<div className="article-img-wrapper">
-				<p>{author}</p>
-				<p>{source.name}</p>
-				<p>{publishedAt}</p>
-				<img src={urlToImage} alt="image accompanying article" />
-				<p>{content}</p>
+			<h2>&#8220;{title}&#8221;</h2>
+			<div className='attribution'>
 				<p>
-					Read the rest of the article on{' '}
-					<a href={url} target="_blank">
-						{source.name}
-					</a>
+					{author} &#183; {source.name}
 				</p>
+				<p>{getArticleDate(new Date(publishedAt))}</p>
 			</div>
+
+			<div className="article-img-wrapper">
+				<img src={urlToImage} alt="image accompanying article" />{' '}
+			</div>
+			<p className="content">{content}</p>
+			<p>
+				Read the entire article on{' '}
+				<a href={url} target="_blank">
+					{source.name}
+				</a>
+			</p>
 		</div>
 	);
 };

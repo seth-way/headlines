@@ -3,14 +3,14 @@ nav {
 	top: 0;
 	width: 100%;
 	max-width: var(--max-content);
-	z-index: 5;
+	z-index: 2;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	background: var(--background);
 
 	#nav-primary,
 	#nav-secondary {
+		background: var(--background);
 		display: flex;
 		align-items: center;
 		border-bottom: thick solid var(--text);
@@ -22,8 +22,9 @@ nav {
 
 	#nav-primary {
 		justify-content: space-between;
-
-		h1, #date-display {
+		z-index: 4;
+		h1,
+		#date-display {
 			font-family: 'Engravers Old English BT W03 Rg';
 			margin: 0;
 		}
@@ -35,5 +36,22 @@ nav {
 		svg:hover {
 			cursor: pointer;
 		}
+	}
+
+	#nav-secondary {
+		justify-content: center;
+		gap: 1rem;
+		transition: transform 0.5s ease-in-out;
+		z-index: 3;
+
+		#nav-search-inputs {
+			display: flex;
+			gap: 1rem;
+			flex-wrap: wrap;
+		}
+	}
+
+	#nav-secondary.hidden {
+		transform: translateY(-100%);
 	}
 }

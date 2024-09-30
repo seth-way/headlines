@@ -1,4 +1,4 @@
-export const getDate = () => {
+export const getCurrentDate = () => {
     const options = {
         year: "numeric",
         month: "short",
@@ -9,6 +9,18 @@ export const getDate = () => {
 
     return date.toLocaleString("en-US", options);
 };
+
+export const getArticleDate = date => {
+    const options = {
+        year: "numeric",
+        month: "short",
+        day: "numeric",
+        hour: "numeric",
+        minute: '2-digit'
+    };
+
+    return date.toLocaleString("en-US", options);
+}
 
 const validateArticle = article => 
     article &&
