@@ -1,0 +1,34 @@
+.MuiPaper-root {
+	width: 48%;
+	background: var(--background);
+
+	.MuiCardContent-root {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		& > div {
+			display: flex;
+			gap: 0.5rem;
+
+			.MuiAvatar-root {
+				height: 7rem;
+				width: 7rem;
+			}
+
+			h3 {
+				font-size: 1.5rem;
+				overflow: hidden;
+				display: -webkit-box;
+				-webkit-line-clamp: 4;
+				line-clamp: 4;
+				-webkit-box-orient: vertical;
+			}
+		}
+	}
+}
+
+@media only screen and (max-width: 800px) {
+	.MuiPaper-root {
+		width: 95%;
+	}
+}

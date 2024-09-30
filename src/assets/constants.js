@@ -1,1 +1,1 @@
-export const HEADLINE_CATEGORIES = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology'];
+export const HEADLINE_CATEGORIES = ['business', 'entertainment', 'health', 'science', 'sports', 'technology'];
