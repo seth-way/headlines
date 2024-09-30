@@ -1,0 +1,39 @@
+nav {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	max-width: var(--max-content);
+	z-index: 5;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background: var(--background);
+
+	#nav-primary,
+	#nav-secondary {
+		display: flex;
+		align-items: center;
+		border-bottom: thick solid var(--text);
+		width: 100%;
+		position: relative;
+		box-sizing: border-box;
+		padding: 0 1rem;
+	}
+
+	#nav-primary {
+		justify-content: space-between;
+
+		h1 {
+			font-family: 'Engravers Old English BT W03 Rg';
+			margin: 0;
+		}
+
+		svg {
+			height: 2rem;
+		}
+
+		svg:hover {
+			cursor: pointer;
+		}
+	}
+}

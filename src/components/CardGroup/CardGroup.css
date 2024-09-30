@@ -1,0 +1,14 @@
+.card-group {
+	h2 {
+		font-family: 'Engravers Old English BT W03 Rg';
+		margin: 2rem 0 0.5rem 2rem;
+        text-transform: capitalize;
+	}
+
+	& > div {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 1rem;
+	}
+}
