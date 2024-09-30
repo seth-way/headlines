@@ -23,7 +23,7 @@ nav {
 	#nav-primary {
 		justify-content: space-between;
 
-		h1 {
+		h1, #date-display {
 			font-family: 'Engravers Old English BT W03 Rg';
 			margin: 0;
 		}

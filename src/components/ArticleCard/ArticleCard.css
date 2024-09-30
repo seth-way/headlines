@@ -1,34 +1,46 @@
-.MuiPaper-root {
+article {
 	width: 48%;
 	background: var(--background);
+	border-radius: 0.25rem;
+	padding: 1rem;
+	box-sizing: border-box;
+	box-shadow: var(--shadow);
 
-	.MuiCardContent-root {
-		display: flex;
-		flex-direction: column;
-		gap: 0.5rem;
-		& > div {
-			display: flex;
-			gap: 0.5rem;
+	& .card-header {
+		.card-img-wrapper {
+			display: inline-block;
+			width: 30%;
+			min-width: 150px;
+			aspect-ratio: 3 / 2;
+			overflow: hidden;
 
-			.MuiAvatar-root {
-				height: 7rem;
-				width: 7rem;
+			img {
+				height: 100%;
 			}
+		}
+		.headline-wrapper {
+			display: inline-block;
+			width: 60%;
 
 			h3 {
+				margin: 0 1rem;
 				font-size: 1.5rem;
 				overflow: hidden;
 				display: -webkit-box;
-				-webkit-line-clamp: 4;
-				line-clamp: 4;
+				-webkit-line-clamp: 3;
+				line-clamp: 3;
 				-webkit-box-orient: vertical;
 			}
 		}
 	}
 }
 
+article:hover {
+    cursor: pointer;
+}
+
 @media only screen and (max-width: 800px) {
-	.MuiPaper-root {
+	article {
 		width: 95%;
 	}
 }
