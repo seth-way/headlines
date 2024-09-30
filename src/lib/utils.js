@@ -23,3 +23,11 @@ const validateArticle = article =>
     article.source.name;
 
 export const filterArticles = articles => articles.filter(article => validateArticle(article));
+
+export const assignArticleID = article => {
+    const title = article.title.slice(0, 10);
+    const author = article.author.slice(0, 10);
+    const published = article.publishedAt.slice(6);
+    article.id =  (title + author + published).split(' ').join('');
+    return article;
+}

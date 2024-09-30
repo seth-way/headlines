@@ -1,16 +1,15 @@
 import './CardGroup.css';
-import Typography from '@mui/material/Typography';
 
 import ArticleCard from '../ArticleCard/ArticleCard';
 
-const CardGroup = ({ category, cardCount, articles }) => {
+const CardGroup = ({ category, cardCount, articles, handleClick }) => {
 	return (
 		<section className='card-group'>
-			<Typography variant="h2">{category}</Typography>
+			<h2>{category}</h2>
 			{articles && (
 				<div>
 					{articles.slice(0, cardCount).map((article, idx) => (
-						<ArticleCard key={`article_${category}_${idx}`} article={article} />
+						<ArticleCard key={`article_${category}_${idx}`} article={article} handleClick={handleClick}/>
 					))}
 				</div>
 			)}
