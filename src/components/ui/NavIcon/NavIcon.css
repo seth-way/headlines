@@ -1,0 +1,28 @@
+#nav-icon {
+	circle,
+	g {
+		transition: all 0.5s ease-in;
+	}
+
+	#g1 {
+		transform-origin: right 20%;
+	}
+
+	#g3 {
+		transform-origin: right 80%;
+	}
+}
+
+#nav-icon.open {
+	circle,
+	#g2 {
+		opacity: 0;
+	}
+
+	#g1 {
+		transform: rotate(-45deg) translateY(-8%);
+	}
+	#g3 {
+		transform: rotate(45deg) translateY(8%);
+	}
+}
