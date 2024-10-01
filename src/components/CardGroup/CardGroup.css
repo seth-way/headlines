@@ -1,10 +1,15 @@
 .card-group {
+	width: 100%;
+	
 	h2 {
 		font-family: 'Engravers Old English BT W03 Rg';
-		margin: 0.5rem 2rem;
+		margin: 1rem 0;
+		padding: 0 2rem;
 		text-transform: capitalize;
 		font-size: 3.5rem;
 		font-weight: 700;
+		border-top: thick solid var(--text);
+		border-bottom: thick solid var(--text);
 	}
 
 	& > div {

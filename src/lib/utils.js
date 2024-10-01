@@ -1,4 +1,4 @@
-export const getDate = () => {
+export const getCurrentDate = () => {
     const options = {
         year: "numeric",
         month: "short",
@@ -9,6 +9,18 @@ export const getDate = () => {
 
     return date.toLocaleString("en-US", options);
 };
+
+export const getArticleDate = date => {
+    const options = {
+        year: "numeric",
+        month: "short",
+        day: "numeric",
+        hour: "numeric",
+        minute: '2-digit'
+    };
+
+    return date.toLocaleString("en-US", options);
+}
 
 const validateArticle = article => 
     article &&
@@ -30,4 +42,13 @@ export const assignArticleID = article => {
     const published = article.publishedAt.slice(6);
     article.id =  (title + author + published).split(' ').join('');
     return article;
+}
+
+export const getSearchParams = query => {
+    const params = query.slice(1).split('&');
+    return params.reduce((acc, param) => {
+        const [key, value] = param.split('=');
+        acc[key] = value;
+        return acc;
+    }, {})
 }

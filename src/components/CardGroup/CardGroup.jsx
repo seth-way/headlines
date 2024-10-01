@@ -2,7 +2,7 @@ import './CardGroup.css';
 
 import ArticleCard from '../ArticleCard/ArticleCard';
 
-const CardGroup = ({ category, cardCount, articles, handleClick }) => {
+const CardGroup = ({ category, articles, cardCount=articles.length, handleClick }) => {
 	return (
 		<section className='card-group'>
 			<h2>{category}</h2>
