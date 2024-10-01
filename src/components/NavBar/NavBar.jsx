@@ -65,7 +65,7 @@ const NavBar = () => {
 				<NavIcon isOpen={isOpen} handleClick={handleClick} />
 			</div>
 			<div id="nav-secondary" className={isOpen ? '' : 'hidden'}>
-				<p>Custom Search:</p>
+				<p>Custom Search</p>
 				<div id="nav-search-inputs">
 					<input
 						type="text"
