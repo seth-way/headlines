@@ -12,9 +12,13 @@
 	box-sizing: border-box;
 	gap: 1rem;
 
+	p {
+		text-align: center;
+	}
+
 	a {
 		height: 2rem;
-        width: 2rem;
+		width: 2rem;
 		svg {
 			height: 100%;
 			color: var(--text);
