@@ -25,7 +25,7 @@ A news reader application that pulls articles from the [News API](https://newsap
 ## Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
 <div align="center">
-  <img src="/src/assets/site-nav.gif" alt="preview of app navigation" width="400px" height="auto">
+  <img src="/src/assets/site-nav.gif" alt="preview of app navigation" width="500px" height="auto">
 </div>
 
 ## Context:
