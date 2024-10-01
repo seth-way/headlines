@@ -1,6 +1,6 @@
 .card-group {
 	width: 100%;
-	
+
 	h2 {
 		font-family: 'Engravers Old English BT W03 Rg';
 		margin: 1rem 0;
@@ -17,6 +17,10 @@
 		flex-wrap: wrap;
 		justify-content: center;
 		gap: clamp(1rem, 2.5vw, 2.5rem);
+	}
+
+	h2.searchable:hover {
+		cursor: pointer;
 	}
 }
 

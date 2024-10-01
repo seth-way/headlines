@@ -27,7 +27,7 @@ const CustomSearch = ({ handleClick }) => {
 		<section id="search-results">
 			{loading && <Loading />}
 			{headlines && (headlines.length ? (
-				<CardGroup category="Search Results" articles={headlines} handleClick={handleClick} />
+				<CardGroup category="search results" articles={headlines} handleClick={handleClick} />
 			) : (
 				<>
 					<h2>No Search Results.</h2>
