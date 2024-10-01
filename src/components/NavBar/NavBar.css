@@ -63,6 +63,10 @@ nav {
 			gap: 1rem;
 			flex-wrap: wrap;
 		}
+
+		button:hover {
+			cursor: pointer;
+		}
 	}
 
 	#nav-secondary.hidden {
