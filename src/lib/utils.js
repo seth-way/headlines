@@ -43,3 +43,12 @@ export const assignArticleID = article => {
     article.id =  (title + author + published).split(' ').join('');
     return article;
 }
+
+export const getSearchParams = query => {
+    const params = query.slice(1).split('&');
+    return params.reduce((acc, param) => {
+        const [key, value] = param.split('=');
+        acc[key] = value;
+        return acc;
+    }, {})
+}

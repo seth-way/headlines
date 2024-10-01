@@ -1,4 +1,6 @@
 .card-group {
+	width: 100%;
+	
 	h2 {
 		font-family: 'Engravers Old English BT W03 Rg';
 		margin: 1rem 0;

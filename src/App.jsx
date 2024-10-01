@@ -57,7 +57,7 @@ function App() {
 					path="/article"
 					element={<Article article={featuredArticle} />}
 				/>
-				<Route path="/search" element={<CustomSearch/>}/>
+				<Route path="/search" element={<CustomSearch handleClick={handleClick}/>}/>
 				<Route path="error/:status" element={<ErrorMessage />} />
 				<Route path="*" element={<ErrorMessage />} />
 			</Routes>

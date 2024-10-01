@@ -29,6 +29,10 @@ nav {
 			margin: 0;
 		}
 
+		h1:hover {
+			cursor: pointer;
+		}
+
 		svg {
 			height: 2rem;
 		}

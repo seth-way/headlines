@@ -1,0 +1,8 @@
+#search-results {
+    margin: 5rem auto;
+    width: 100%;
+    max-width: var(--max-content);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
