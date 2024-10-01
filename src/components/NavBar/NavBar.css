@@ -53,6 +53,11 @@ nav {
 		transition: transform 0.5s ease-in-out;
 		z-index: 3;
 
+		p {
+			border-right: solid 4px var(--text);
+			padding-right: 1rem;
+		}
+
 		#nav-search-inputs {
 			display: flex;
 			gap: 1rem;
