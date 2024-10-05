@@ -1,5 +1,6 @@
 import './CardGroup.css';
 import { useNavigate } from 'react-router-dom';
+import Loading from '../Loading/Loading';
 
 import ArticleCard from '../ArticleCard/ArticleCard';
 
@@ -20,7 +21,7 @@ const CardGroup = ({ category, articles, cardCount = articles.length, handleClic
 			) : (
 				<h2>{category}</h2>
 			)}
-			{articles && (
+			{articles ? (
 				<div>
 					{articles.slice(0, cardCount).map((article, idx) => (
 						<ArticleCard
@@ -30,6 +31,8 @@ const CardGroup = ({ category, articles, cardCount = articles.length, handleClic
 						/>
 					))}
 				</div>
+			) : (
+				<Loading />
 			)}
 		</section>
 	);
