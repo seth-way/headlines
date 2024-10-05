@@ -1,8 +1,11 @@
 import './ErrorMessage.css'
+import { useParams } from 'react-router-dom'
 
 const ErrorMessage = () => {
+  const { status } = useParams();;
+  const statusCode = status || 404;
   return (
-    <div>ErrorMessage</div>
+    <div id='error-message'>ErrorMessage</div>
   )
 }
 
