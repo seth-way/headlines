@@ -51,9 +51,7 @@ describe('Load the Home Page', () => {
         .should('have.length', 4);
     }
 
-    cy.get(
-      ':nth-child(1) > :nth-child(2) > :nth-child(1) > .card-header > .headline-wrapper > h3'
-    ).should('contain', 'NC Lt. Gov. Mark Robinson');
+    cy.get('h3').first().should('contain', 'NC Lt. Gov. Mark Robinson');
 
     cy.get(':nth-child(1) > :nth-child(2) > :nth-child(1) > p').should(
       'contain',
@@ -62,7 +60,7 @@ describe('Load the Home Page', () => {
   });
 
   it('should take the user to the article view on click', () => {
-    cy.get('#home > :nth-child(1) > :nth-child(2) > :nth-child(1)').click();
+    cy.get('h3').first().click();
     cy.get('#featured-article').should('exist');
-  })
+  });
 });

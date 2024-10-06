@@ -25,6 +25,10 @@ beforeEach(() => {
 
 describe('Home Page Error Handling', () => {
   it('should display an appropriate error when api call fails', () => {
-    
-  })
+    cy.get('#error-message > h2').should('contain', 'Error: 500');
+    cy.get('#error-message > p').should(
+      'contain',
+      'We sincerely apologize.Something went wrong.'
+    );
+  });
 });
