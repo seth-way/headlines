@@ -8,9 +8,10 @@ const ErrorMessage = () => {
 		<div id='error-message'>
 			<h2>{`Error: ${statusCode}`}</h2>
 			<p>We sincerely apologize.
-        <br/>Somthing went wrong.</p>
+        <br/>Something went wrong.</p>
 		</div>
 	);
 };
 
-export default ErrorMessage;
+export default ErrorMessage
+

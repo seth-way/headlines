@@ -8,7 +8,9 @@ const searchCategory = async category => {
 			headers: { 'x-api-key': import.meta.env.VITE_API_KEY }
 		});
 		if (!response.ok) {
-			throw new Error(`Response status: ${response.status}`);
+			const error = new Error(`Response status: ${response.status}`);
+			error.status = response.status;
+			throw error;
 		}
 		const { articles } = await response.json();
 		return [category, articles];
@@ -24,7 +26,9 @@ export const getAllHeadlines = async () => {
 			headers: { 'x-api-key': import.meta.env.VITE_API_KEY }
 		});
 		if (!response.ok) {
-			throw new Error(`Response status: ${response.status}`);
+			const error = new Error(`Response status: ${response.status}`);
+			error.status = response.status;
+			throw error;
 		}
 		const { articles } = await response.json();
 		allArticles.general = articles;
@@ -47,7 +51,9 @@ export const searchHeadlines = async query => {
 			headers: { 'x-api-key': import.meta.env.VITE_API_KEY }
 		});
 		if (!response.ok) {
-			throw new Error(`Response status: ${response.status}`);
+			const error = new Error(`Response status: ${response.status}`);
+			error.status = response.status;
+			throw error;
 		}
 		const { articles } = await response.json();
 		return articles;

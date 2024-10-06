@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Galaxy --Great Discoveries Channel"
+      },
+      "author": null,
+      "title": "Earth Officially Has a Second Moon: Asteroid 2024 PT5 Captured in Temporary Orbit - The Daily Galaxy --Great Discoveries Channel",
+      "description": "Earth has captured a new mini-moon, 2024 PT5, a small asteroid temporarily trapped by Earth’s gravity. Discovered in August 2024, the asteroid became Earth’s second moon on September 29 but will only stay until November 25.",
+      "url": "https://dailygalaxy.com/2024/10/earth-has-second-moon-asteroid-2024-pt5/",
+      "urlToImage": "https://dailygalaxy.com/wp-content/uploads/2024/10/Earth-Officially-Has-a-Second-Moon-Asteroid-2024-PT5-Captured-in-Temporary-Orbit.jpg",
+      "publishedAt": "2024-10-05T17:17:04Z",
+      "content": "In a fascinating cosmic event, Earth has temporarily captured a mini-moon, an asteroid now caught in Earth's gravitational pull. Named 2024 PT5, this tiny space rock was first spotted by astronomers … [+5892 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Eric Bradner, Jeff Zeleny, Alayna Treene, Holmes Lybrand",
+      "title": "Trump returns to Butler for rally at site of assassination attempt - CNN",
+      "description": "Donald Trump is returning Saturday to the Pennsylvania venue where he narrowly survived an assassination attempt in July, holding a high-profile rally in what his allies are billing as a key moment as the 2024 race for the White House enters its final month.",
+      "url": "https://www.cnn.com/2024/10/05/politics/trump-returns-to-butler/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24278757518800.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-10-05T17:10:00Z",
+      "content": "Donald Trump is returning Saturday to the Pennsylvania venue where he narrowly survived an assassination attempt in July, holding a high-profile rally in what his allies are billing as a key moment a… [+9569 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Edward Helmore",
+      "title": "Kim Kardashian urges California to reconsider Menendez brothers’ life sentences - The Guardian US",
+      "description": "After renewed interest in case from Netflix series, reality star pleas for leniency for the brothers convicted of murdering their parents in 1989",
+      "url": "https://www.theguardian.com/us-news/2024/oct/05/kim-kardashian-menendez-brothers",
+      "urlToImage": "https://i.guim.co.uk/img/media/0eb3f197f855e024dc17590dcec4479b39ed0d02/0_143_3001_1800/master/3001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=983950792a122139b537e5cab5fe8629",
+      "publishedAt": "2024-10-05T17:07:00Z",
+      "content": "Law school graduate and criminal justice advocate Kim Kardashian has called on California authorities to reconsider the life sentences handed to Erik and Lyle Menendez, the two brothers convicted in … [+4943 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Terry Eliasen, Exec. Weather Producer",
+      "title": "The northern lights could be visible in Massachusetts again. See the aurora forecast map. - CBS Boston",
+      "description": "There's a chance the northern lights could make an appearance over Massachusetts tonight, according to the aurora forecast.",
+      "url": "https://www.cbsnews.com/boston/news/northern-lights-massachusetts-forecast-map/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/10/04/4d647156-30de-410f-aa44-a9aec36312ce/thumbnail/1200x630/da12aac5c906afc407c2812fb73bddfc/aurora-map.jpg?v=0736ad3ef1e9ddfe1218648fe91d6c9b",
+      "publishedAt": "2024-10-05T16:42:28Z",
+      "content": "BOSTON - There's a chance that the northern lights could make an appearance over Massachusetts tonight, and the aurora borealis forecast says the possibility of seeing the colorful display will conti… [+3303 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Deon J. Hampton",
+      "title": "Historic Biltmore Estate shutters after floods from Hurricane Helene ravage Asheville - NBC News",
+      "description": "America’s largest privately-owned estate has abruptly shut down in Asheville after Hurricane Helene caused extensive flooding and building damage along the 8,000 acre property.",
+      "url": "https://www.nbcnews.com/news/us-news/biltmore-estate-shutters-asheville-hurricane-helene-rcna174145",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241005-Biltmore-ch-1217-dcdcd8.jpg",
+      "publishedAt": "2024-10-05T16:40:11Z",
+      "content": "ASHEVILLE, N.C. Americas largest privately-owned estate has abruptly shut down in Asheville after Hurricane Helene caused extensive flooding and building damage along the 8,000 acre property.\r\nThe ic… [+2356 chars]"
+    }
+  ]
+}

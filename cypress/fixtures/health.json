@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Sara Chernikoff",
+            "title": "How the US obesity rate has evolved over the past decade, explained in charts - USA TODAY",
+            "description": "At least 1 in 5 adults in each U.S. state live with obesity, new data from the Centers for Disease Control and Prevention reveals.",
+            "url": "https://www.usatoday.com/story/graphics/2024/09/26/obesity-rate-in-america-us-chart/75367963007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/09/25/USAT/75382369007-obesitytopper.png?crop=3555,1999,x122,y0&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2024-09-26T17:52:14Z",
+            "content": "Obesity is an epidemic in the America. Four in 10 U.S. adults fit the medical definition of having obesity, which puts them at risk for serious health problems, including diabetes, heart disease and … [+4158 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Taylor Knight",
+            "title": "1 in 3 adults suffers from an iron deficiency, study finds — look for these 7 symptoms - New York Post ",
+            "description": "You might be iron deficient and not even realize it.",
+            "url": "https://nypost.com/2024/09/26/lifestyle/1-in-3-adults-has-an-iron-deficiency-study-finds-look-for-these-7-symptoms/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/90437634.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-09-26T16:17:00Z",
+            "content": "You might be iron deficient and not even realize it.\r\nA recent study, published in JAMA Network Open, revealed that 29% of US adults are affected by absolute or functional iron deficiencies and nearl… [+4290 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "THE ASSOCIATED PRESS",
+            "title": "A top government scientist engaged in research misconduct, NIH finds - The Associated Press",
+            "description": "A National Institutes of Health investigation has found research misconduct by a top neuroscientist. In a statement Thursday, NIH said the findings involve images in two studies coauthored by Dr. Eliezer Masliah, the National Institute on Aging's longtime neu…",
+            "url": "https://apnews.com/article/misconduct-alzheimers-parkinsons-research-nih-297a61dc69cb18965015381a911197ec",
+            "urlToImage": "https://dims.apnews.com/dims4/default/899fcc4/2147483647/strip/true/crop/2313x1301+0+121/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F81%2F8b%2F1e49cc8fbecfada56499096dca95%2F28b7abd7947247f198d7226d8c463bc6",
+            "publishedAt": "2024-09-26T14:49:00Z",
+            "content": "A National Institutes of Health investigation has found research misconduct by one of its top neuroscientists, the agency said Thursday.\r\nIn a statement, the NIH said the findings involve images in t… [+1549 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Charles Trepany",
+            "title": "Ozempic is so popular people are trying to 'microdose' it. Is that a bad idea? - USA TODAY",
+            "description": "People are seeking out 'microdoses' of Ozempic and other weight-loss drugs. Medical professionals say there's pros and cons.",
+            "url": "https://www.usatoday.com/story/life/health-wellness/2024/09/26/ozempic-microdosing-safety/75384332007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/06/27/USAT/74231262007-usatsi-21519642.jpg?crop=3597,2024,x0,y375&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2024-09-26T12:52:25Z",
+            "content": "\"Microdosing.\" It's a term you might have heard in reference to psychedelics. But what about Ozempic?\r\nThe explosion of interest in weight-loss medication from brands like Ozempic, Wegovy and Manjaro… [+4395 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Pandora Dewan",
+            "title": "COVID Virus Is Evolving Resistance to Antiviral Treatment, Studies Show - Newsweek",
+            "description": "Immunocompromised patients are particularly likely to see the evolution of these mutants, but the risk to the general public remains unclear.",
+            "url": "https://www.newsweek.com/covid-virus-evolving-resistance-antiviral-treatment-remdesivir-1959696",
+            "urlToImage": "https://d.newsweek.com/en/full/2481081/remdesivir.png",
+            "publishedAt": "2024-09-26T12:15:54Z",
+            "content": "The virus that causes COVID-19 might be becoming resistant to antiviral treatments, new research has warned. But should we be concerned?\r\nThe antiviral drugs nirmatrelvir and remdesivir are recommend… [+4217 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "David Cox",
+            "title": "'A warmer, sicker world': Mosquitoes carrying deadly diseases are on an unstoppable march across the US - BBC.com",
+            "description": "West Nile virus, Eastern equine encephalitis (EEE), malaria and dengue are gaining new ground in the US. The mosquitoes that carry these diseases are thriving in a warming world.",
+            "url": "https://www.bbc.com/future/article/20240925-why-mosquitoes-are-thriving-in-a-warmer-world",
+            "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0jss7gr.jpg",
+            "publishedAt": "2024-09-26T09:07:38Z",
+            "content": "Aedes mosquitoes capable of carrying a range of harmful viruses are moving to new areas with climate change (Credit: Getty Images)\r\nWest Nile virus, Eastern equine encephalitis (EEE), malaria and den… [+12039 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Angelica Stabile",
+            "title": "More than half of Americans with STDs were infected by cheating partners, survey finds - Fox News",
+            "description": "A survey exposed how and where STIs are spreading in the U.S. A spokesperson for the research team and a sexual health expert react to the findings and offer prevention tips.",
+            "url": "https://www.foxnews.com/health/more-half-americans-stds-infected-cheating-partners-survey-finds",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/mature-couple.jpg",
+            "publishedAt": "2024-09-26T08:40:00Z",
+            "content": "A new study has exposed the sexual health habits of some Americans.\r\nResearchers analyzed data from the U.S. Census Bureau to determine how and where Americans have been contracting and spreading STI… [+4334 chars]"
+        }
+    ]
+}

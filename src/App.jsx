@@ -21,7 +21,9 @@ function App() {
 	useEffect(() => {
 		const fetchArticles = async () => {
 			const headlines = await getAllHeadlines();
-			if (headlines instanceof Error) navigate('/error/' + headlines.status || 500);
+			if (headlines instanceof Error) {
+				const errorStatus = headlines.status || 500;
+				navigate('/error/' + errorStatus);}
 			setArticles(() => headlines);
 			console.log(headlines);
 		};
